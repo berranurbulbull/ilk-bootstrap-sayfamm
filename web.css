@@ -1,0 +1,22 @@
+
+body {
+  font-family: Arial;
+  margin: 0;
+  background-image: url(pngwing.com\ \(9\).png);
+  background-position: ;
+}
+
+.row {  
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.img {
+  width: 20px;
+  padding: 20px;
+  height: 20px;
+}
+.jumbotron {
+    background-image: url(pngwing.com\ \(10\).png);
+    background-position: center;
+}
